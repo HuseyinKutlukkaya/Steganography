@@ -1,4 +1,4 @@
 # Steganography
-Oluşturulma Tarihi:‎20 ‎Nisan ‎2018 
-# Steganografi Nedir ?
-Steganografi, eski Yunanca'da "gizlenmiş yazı" anlamına gelir ve bilgiyi gizleme  bilimine verilen addır. 
+Created On:‎20 ‎April ‎2018
+# What is Steganography?
+Steganography means "hidden writing" in ancient Greek and is the name given to the science of hiding information.
